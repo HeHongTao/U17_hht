@@ -1,0 +1,6 @@
+framework module Pods_U17_hhtTests {
+  umbrella header "Pods-U17_hhtTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
